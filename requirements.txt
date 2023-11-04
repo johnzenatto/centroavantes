@@ -1,7 +1,7 @@
-matplotlib==3.8.0
-numpy==1.25.1
-pandas==2.0.3
-plotly==5.15.0
-plotly-express==0.4.1
-streamlit==1.18.1
-streamlit-pandas==0.0.9
+matplotlib>=3.8.0
+numpy>=1.25.1
+pandas>=2.0.3
+plotly>=5.15.0
+plotly-express>=0.4.1
+streamlit>=1.18.1
+streamlit-pandas>=0.0.9
