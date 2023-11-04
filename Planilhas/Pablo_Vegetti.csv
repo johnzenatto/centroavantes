@@ -1,0 +1,42 @@
+Nome,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+Pablo Vegetti,2023-01-29,Sun,Primera Div,Matchweek 1,Away,D 0–0,Club Atlético Belgrano,Racing Club,Y*,Centroavante,89,0,0,0,0,4,0,0,0,46,0,0,0,0.3,0.3,0.0,2,0,23,33,69.7,4,14,0,3,0,Match Report
+Pablo Vegetti,2023-02-04,Sat,Primera Div,Matchweek 2,Home,W 2–1,Club Atlético Belgrano,River Plate,Y*,Centroavante,81,2,0,0,0,2,2,0,0,35,0,0,1,0.7,0.7,0.0,0,0,9,21,42.9,1,22,1,1,0,Match Report
+Pablo Vegetti,2023-02-10,Fri,Primera Div,Matchweek 3,Away,W 1–0,Club Atlético Belgrano,CC Córdoba,Y*,Centroavante,89,1,0,0,0,7,1,0,0,36,0,0,3,0.6,0.6,0.0,1,0,16,20,80.0,3,20,2,1,1,Match Report
+Pablo Vegetti,2023-02-18,Sat,Primera Div,Matchweek 4,Away,L 0–3,Club Atlético Belgrano,Argentinos Jun,Y*,Centroavante,90,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.1,2,0,13,16,81.3,0,8,0,1,0,Match Report
+Pablo Vegetti,2023-02-24,Fri,Primera Div,Matchweek 5,Home,L 0–2,Club Atlético Belgrano,Tigre,Y*,Centroavante,90,0,0,0,0,1,0,1,0,30,0,0,1,0.0,0.0,0.0,0,0,10,18,55.6,1,22,0,0,0,Match Report
+Pablo Vegetti,2023-03-06,Mon,Primera Div,Matchweek 6,Away,W 1–0,Club Atlético Belgrano,Arsenal,Y*,Centroavante,61,1,0,1,1,6,1,0,0,26,0,0,0,1.2,0.5,0.1,3,1,12,15,80.0,0,12,2,1,1,Match Report
+Pablo Vegetti,2023-03-11,Sat,Primera Div,Matchweek 7,Home,D 0–0,Club Atlético Belgrano,Lanús,Y*,Centroavante,90,0,0,0,0,1,0,0,0,25,1,0,0,0.1,0.1,0.0,1,0,12,20,60.0,3,11,0,0,0,Match Report
+Pablo Vegetti,2023-03-18,Sat,Primera Div,Matchweek 8,Away,L 1–3,Club Atlético Belgrano,Godoy Cruz,Y*,Centroavante,90,0,1,0,0,5,3,0,0,25,0,0,0,0.7,0.7,0.8,4,1,11,15,73.3,0,5,0,0,0,Match Report
+Pablo Vegetti,2023-04-03,Mon,Primera Div,Matchweek 9,Home,D 0–0,Club Atlético Belgrano,Sarmiento,Y*,Centroavante,90,0,0,0,0,4,0,0,0,25,0,0,0,0.1,0.1,0.2,1,0,8,17,47.1,0,15,2,0,0,Match Report
+Pablo Vegetti,2023-04-08,Sat,Primera Div,Matchweek 10,Away,W 3–0,Club Atlético Belgrano,CA Unión,Y*,Centroavante,90,1,0,1,1,4,1,0,0,28,2,0,0,1.5,0.7,0.0,1,0,7,16,43.8,1,14,2,2,1,Match Report
+Pablo Vegetti,2023-04-12,Wed,Primera Div,Matchweek 11,Home,W 2–0,Club Atlético Belgrano,CA Huracán,Y*,Centroavante,90,0,0,0,0,4,1,0,0,28,0,0,0,0.3,0.3,0.0,2,1,14,21,66.7,2,11,2,2,1,Match Report
+Pablo Vegetti,2023-04-15,Sat,Primera Div,Matchweek 12,Away,W 2–0,Club Atlético Belgrano,Gimnasia ELP,Y*,Centroavante,82,2,0,0,0,3,2,0,0,32,1,1,0,1.3,1.3,0.0,0,0,7,19,36.8,3,7,0,1,0,Match Report
+Pablo Vegetti,2023-04-22,Sat,Primera Div,Matchweek 13,Home,W 1–0,Club Atlético Belgrano,Newell's OB,Y*,Centroavante,90,1,0,0,0,1,1,1,0,36,0,0,0,0.1,0.1,0.5,2,0,11,23,47.8,1,22,1,3,1,Match Report
+Pablo Vegetti,2023-04-30,Sun,Primera Div,Matchweek 14,Away,L 0–2,Club Atlético Belgrano,Independiente,Y*,Centroavante,90,0,0,0,0,1,0,1,0,22,1,0,0,0.0,0.0,0.0,1,0,6,14,42.9,1,9,0,0,0,Match Report
+Pablo Vegetti,2023-05-06,Sat,Primera Div,Matchweek 15,Home,W 1–0,Club Atlético Belgrano,Tucumán,Y*,Centroavante,90,1,0,0,0,4,2,0,0,37,0,0,1,0.5,0.5,0.1,4,0,14,25,56.0,1,21,2,2,2,Match Report
+Pablo Vegetti,2023-05-14,Sun,Primera Div,Matchweek 16,Away,L 0–2,Club Atlético Belgrano,Boca Juniors,Y*,Centroavante,90,0,0,0,0,2,0,0,0,19,0,0,1,0.1,0.1,0.0,1,0,6,10,60.0,0,9,0,0,0,Match Report
+Pablo Vegetti,2023-05-21,Sun,Primera Div,Matchweek 17,Home,D 1–1,Club Atlético Belgrano,Talleres,Y*,Centroavante,90,1,0,0,0,5,2,0,0,39,0,0,2,0.5,0.5,0.1,4,0,15,25,60.0,2,24,1,3,2,Match Report
+Pablo Vegetti,2023-05-27,Sat,Primera Div,Matchweek 18,Away,L 0–1,Club Atlético Belgrano,Platense,Y*,Centroavante,90,0,0,0,0,2,0,0,0,33,1,0,2,0.4,0.4,0.0,0,0,12,21,57.1,1,16,0,1,0,Match Report
+Pablo Vegetti,2023-06-03,Sat,Primera Div,Matchweek 19,Home,W 2–0,Club Atlético Belgrano,Vélez Sarsf,Y*,Centroavante,90,1,0,0,0,3,1,0,0,41,2,0,2,0.2,0.2,0.0,2,1,16,28,57.1,2,24,1,2,0,Match Report
+Pablo Vegetti,2023-06-13,Tue,Primera Div,Matchweek 20,Away,L 0–2,Club Atlético Belgrano,Defensa y Just,Y*,Centroavante,90,0,0,0,0,5,2,0,0,32,0,0,1,0.2,0.2,0.0,0,0,11,17,64.7,1,15,1,2,0,Match Report
+Pablo Vegetti,2023-06-26,Mon,Primera Div,Matchweek 21,Home,W 3–1,Club Atlético Belgrano,Banfield,Y*,Centroavante,89,2,0,0,0,3,2,0,0,33,0,0,0,1.0,1.0,0.1,3,1,13,23,56.5,1,25,0,0,0,Match Report
+Pablo Vegetti,2023-07-02,Sun,Primera Div,Matchweek 22,Away,L 0–1,Club Atlético Belgrano,Instituto Atlético Central Córdoba,Y*,Centroavante,90,0,0,0,0,2,2,0,0,14,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,1,3,0,0,0,Match Report
+Pablo Vegetti,2023-07-06,Thu,Primera Div,Matchweek 23,Home,L 0–2,Club Atlético Belgrano,Barracas Central,Y*,Centroavante,90,0,0,0,0,3,0,1,0,18,0,0,0,0.1,0.1,0.0,0,0,7,12,58.3,0,6,0,0,0,Match Report
+Pablo Vegetti,2023-07-10,Mon,Primera Div,Matchweek 24,Away,D 0–0,Club Atlético Belgrano,Colón,Y*,Centroavante,90,0,0,0,0,3,1,0,0,32,0,0,0,0.7,0.7,0.1,4,0,12,19,63.2,2,15,0,1,0,Match Report
+Pablo Vegetti,2023-07-16,Sun,Primera Div,Matchweek 25,Home,L 0–1,Club Atlético Belgrano,San Lorenzo,Y*,Centroavante,90,0,0,0,0,6,4,0,0,17,0,0,0,0.9,0.9,0.0,2,0,5,8,62.5,0,6,0,1,0,Match Report
+Pablo Vegetti,2023-07-22,Sat,Primera Div,Matchweek 26,Away,L 0–4,Club Atlético Belgrano,Estudiantes,Y*,Centroavante,90,0,0,0,0,1,0,0,0,25,0,0,0,0.1,0.1,0.0,1,0,13,23,56.5,1,18,1,0,0,Match Report
+Pablo Vegetti,2023-07-28,Fri,Primera Div,Matchweek 27,Home,D 0–0,Club Atlético Belgrano,Rosario Cent,Y*,Centroavante,90,0,0,0,0,5,1,0,0,32,0,0,0,0.3,0.3,0.0,2,0,10,18,55.6,0,19,1,0,0,Match Report
+Pablo Vegetti,2023-08-06,Sun,Série A,Matchweek 18,Home,W 1–0,Vasco da Gama,Grêmio,N,Centroavante,27,1,0,0,0,3,3,0,0,16,0,0,0,1.4,1.4,0.0,0,0,7,12,58.3,1,12,1,1,1,Match Report
+Pablo Vegetti,2023-08-14,Mon,Série A,Matchweek 19,Away,D 1–1,Vasco da Gama,Bragantino,Y,Centroavante,90,1,0,1,1,1,0,0,0,33,0,1,1,1.0,0.2,0.0,1,1,8,22,36.4,0,12,1,1,0,Match Report
+Pablo Vegetti,2023-08-20,Sun,Série A,Matchweek 20,Home,W 1–0,Vasco da Gama,Atlético Mineiro,Y,Centroavante,80,0,0,0,0,7,1,0,0,34,0,1,2,0.8,0.8,0.0,3,1,10,16,62.5,0,17,0,0,0,Match Report
+Pablo Vegetti,2023-08-27,Sun,Série A,Matchweek 21,Away,L 0–1,Vasco da Gama,Palmeiras,Y,Centroavante,90,0,0,0,0,1,1,0,0,31,1,0,0,0.0,0.0,0.0,0,0,14,23,60.9,0,14,0,0,0,Match Report
+Pablo Vegetti,2023-09-03,Sun,Série A,Matchweek 22,Away,D 1–1,Vasco da Gama,Bahia,Y,Centroavante,90,1,0,1,1,2,0,0,0,33,0,0,1,0.9,0.1,0.0,0,0,11,19,57.9,1,10,0,0,0,Match Report
+Pablo Vegetti,2023-09-16,Sat,Série A,Matchweek 23,Home,W 4–2,Vasco da Gama,Fluminense,Y,Centroavante,89,1,1,0,0,2,1,1,0,23,0,0,0,0.2,0.2,0.5,2,1,11,14,78.6,2,6,1,0,0,Match Report
+Pablo Vegetti,2023-09-21,Thu,Série A,Matchweek 24,Home,W 5–1,Vasco da Gama,Coritiba,Y,Centroavante,67,2,0,0,0,2,2,0,0,15,1,0,0,0.3,0.3,0.0,0,0,8,11,72.7,0,9,0,0,0,Match Report
+Pablo Vegetti,2023-09-25,Mon,Série A,Matchweek 15,Away,W 1–0,Vasco da Gama,América (MG),Y,Centroavante,90,0,0,0,0,3,0,0,0,25,0,0,1,0.2,0.2,0.0,1,0,8,14,57.1,0,13,1,3,1,Match Report
+Pablo Vegetti,2023-10-01,Sun,Série A,Matchweek 25,Away,L 1–4,Vasco da Gama,Santos,Y,Centroavante,90,1,0,0,0,8,3,0,0,30,0,0,2,0.4,0.4,0.0,1,0,8,17,47.1,2,12,0,0,0,Match Report
+Pablo Vegetti,2023-10-07,Sat,Série A,Matchweek 26,Home,D 0–0,Vasco da Gama,São Paulo,Y,Centroavante,90,0,0,0,0,2,0,0,0,19,0,0,1,0.3,0.3,0.0,1,0,5,13,38.5,1,10,0,1,0,Match Report
+Pablo Vegetti,2023-10-18,Wed,Série A,Matchweek 27,Home,W 1–0,Vasco da Gama,Fortaleza,Y,Centroavante,90,0,0,0,0,5,2,0,0,26,0,0,0,0.9,0.9,0.0,0,0,14,17,82.4,0,12,0,0,0,Match Report
+Pablo Vegetti,2023-10-22,Sun,Série A,Matchweek 28,Away,L 0–1,Vasco da Gama,Flamengo,Y,Centroavante,90,0,0,0,0,6,2,0,0,33,0,0,2,0.5,0.5,0.0,3,0,7,17,41.2,0,14,0,1,0,Match Report
+Pablo Vegetti,2023-10-26,Thu,Série A,Matchweek 29,Home,L 1–2,Vasco da Gama,Internacional,Y,Centroavante,90,0,0,0,0,6,2,0,0,23,1,0,0,0.6,0.6,0.0,0,0,8,12,66.7,0,10,0,1,1,Match Report
+Pablo Vegetti,2023-10-29,Sun,Série A,Matchweek 30,Away,D 1–1,Vasco da Gama,Goiás,Y,Centroavante,89,1,0,0,0,4,2,2,1,26,1,0,2,0.9,0.9,0.0,2,0,6,12,50.0,0,12,1,1,1,Match Report
